@@ -1,0 +1,5 @@
+'abc'.decode('utf-8')  # str to unicode
+u'abc'\
+
+u'abc'.encode('utf-8') # unicode to str
+'abc' 
