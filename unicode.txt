@@ -3,3 +3,16 @@ u'abc'\
 
 u'abc'.encode('utf-8') # unicode to str
 'abc' 
+
+
+ffmpeg - extract all frames to jpgs 
+ffmpeg -i file.mpg -r 1/1 $filename%03d.jpg
+
+
+
+count lines in file
+cat file.txt|wc -l 
+
+
+rename multiple files
+rename 's/from/to/'  file*.txt
