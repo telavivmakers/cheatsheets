@@ -16,3 +16,7 @@ cat file.txt|wc -l
 
 rename multiple files
 rename 's/from/to/'  file*.txt
+
+screen - 
+ctrl-a [  -  navigate
+infinite scrollback : enter command line mode in a running session by typing Ctrl+A, :, then issuing the scrollback <num> command.
