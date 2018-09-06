@@ -1,3 +1,5 @@
+migrated to https://docs.google.com/spreadsheets/d/1b0LWfgcTSux1kzpb_0uDIZQN8I34nKJ8sRv70P7TAoI/edit#gid=0
+
 'abc'.decode('utf-8')  # str to unicode
 u'abc'\
 
